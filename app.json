@@ -1,0 +1,16 @@
+{
+  "name": "zzznathan",
+  "description": "zzzjson app file",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
